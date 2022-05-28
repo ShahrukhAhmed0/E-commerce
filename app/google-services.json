@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850864289507",
+    "project_id": "bakra-pk",
+    "storage_bucket": "bakra-pk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850864289507:android:71c2ff34313a3a4a0ab7d6",
+        "android_client_info": {
+          "package_name": "com.example.bakrapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850864289507-t3smb15jp8menvpe39iobslcmtd99ije.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNtkd3qqI0myIh3Ci-8RmCSG3Ze_PnlBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850864289507-t3smb15jp8menvpe39iobslcmtd99ije.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
